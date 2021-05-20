@@ -5,7 +5,7 @@ title: Contact logbeats
 
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
-  <div class="contactContent">o
+  <div class="contactContent">
     <p class="intro">This is an example Contact page. If you want to make changes then do so in thefile.</p>
     <p>The form is provided by  Follow the directions on their site to set up the form for use.</p>
     <p>If you have questions about the theme feel free to Enjoy!</p>
