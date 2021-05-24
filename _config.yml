@@ -10,7 +10,7 @@ permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate, hexo-generator-cname]
+plugins: [hexo-generator-cname]
 paginate: 5
 
 navigation:
