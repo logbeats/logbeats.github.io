@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact logbeats
+image: touring.jpg
 ---
 
 <div id="contact">
