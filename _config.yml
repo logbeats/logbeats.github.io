@@ -18,8 +18,8 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: test
-    url: /contact
+  - title: Design
+    url: /Design
 
 social:
   github: logbeats
