@@ -1,15 +1,14 @@
 ---
 layout: default
-title: design logbeats
+title: Contact logbeats
 ---
 
-<div id="design">
+<div id="contact">
   <h1 class="pageTitle">design logbeats</h1>
-  <div class="designlogbeats">
-    <p class="intro">로그데이터 보안 프로그램 개발 IT 회사 로그비츠(뽑아서보다) 로고
-     Logdata security program development IT company logbeats(pull out) logo</p>
-    <p>다양한 데이터를 관리하고, 좋은 로그데이터를 선택, 분석, 개발하는 로그비츠의 브랜드 스토리는 로그함수 모티프를 통해 제작되었습니다.</p>
-    <p>logbeats brand story, which manages various data and selects, analyzes, and develops good log data was created through log function motifs.</p>
+  <div class="contactContent">
+    <p class="intro">This is an example Contact page. If you want to make changes then do so in thefile.</p>
+    <p>The form is provided by  Follow the directions on their site to set up the form for use.</p>
+    <p>If you have questions about the theme feel free to Enjoy!</p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>
