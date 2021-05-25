@@ -507,7 +507,7 @@ BUTTON DEFAULTS
   .button:hover, .button-secondary:hover, .button-tertiary:hover, .button__outline:hover, .button:focus, .button-secondary:focus, .button-tertiary:focus, .button__outline:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f; }
+    background-color: #F7F8FA; }
   .button:active, .button-secondary:active, .button-tertiary:active, .button__outline:active {
     top: 1px; }
 
@@ -763,7 +763,7 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: #21653f; }
+    background-color: #F7F8FA; }
 
 /***************
 LIST STYLING
@@ -974,7 +974,7 @@ FOOTER STYLING
           .footer-links ul li a svg .inner-shape {
             fill: white; }
       .footer-links ul li:hover a svg .outer-shape {
-        fill: #21653f; }
+        fill: #F7F8FA; }
 
 /***************
 PAGINATION STYLING
