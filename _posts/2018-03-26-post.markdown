@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Company establishment"
+title:  "Company Incorporated"
 date:   2018-03-26
 ---
 
-<p class="intro"><span class="dropcap">L</span>ogbeats Company establishment</p>
+<p class="intro"><span class="dropcap">L</span>ogbeats Company Incorporated</p>
 
-20180326
+2018-03-26 logbeats Company Incorporated
