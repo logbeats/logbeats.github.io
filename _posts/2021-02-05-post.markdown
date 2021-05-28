@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Cloud Infrastructure"
+date:   2021-02-05
+---
+
+<p class="intro"><span class="dropcap"></span>Cloud Infrastructure</p>
+
+2021-02-05 A Study on the Automated Method for Checking Security Settings of Cloud Infrastructure
